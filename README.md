@@ -1,7 +1,7 @@
-[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
+[![MasterHead](https://https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg)
 <h1 align="center">Hi 👋, I'm Rohan Mehta</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn2.vectorstock.com/i/thumb-large/53/36/web-developer-avatar-vector-25535336.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanmehta45&label=Profile%20views&color=0e75b6&style=flat" alt="rohanmehta45" /> </p>
 
@@ -25,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohanmehta45&show_icons=true&locale=en" alt="rohanmehta45" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanmehta45&" alt="rohanmehta45" /></p>
+
