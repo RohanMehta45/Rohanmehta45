@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanmehta45&label=Profile%20views&color=0e75b6&style=flat" alt="rohanmehta45" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,BOOTSTRAP,REACT JS, EXPRESS JS, NODE JS, MONGO DB, PAYMENT GATEWAY, DEPLOYMENT**
+- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,BOOTSTRAP,REACT JS, EXPRESS JS, NODE JS, MONGO DB, PAYMENT GATEWAY, DEPLOYMENT**
 
 - 💬 Ask me about **WEB DEVELOPMENT**
 
