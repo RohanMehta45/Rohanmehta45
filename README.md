@@ -1,6 +1,8 @@
 ![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg)
 <h1 align="center">Hi 👋, I'm Rohan Mehta</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">Highly proficient and detail-oriented individual specializing in Data Structures
+and Algorithms (DSA) with a robust background in Java programming and web
+development.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn2.vectorstock.com/i/thumb-large/53/36/web-developer-avatar-vector-25535336.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanmehta45&label=Profile%20views&color=0e75b6&style=flat" alt="rohanmehta45" /> </p>
