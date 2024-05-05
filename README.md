@@ -7,11 +7,11 @@ development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanmehta45&label=Profile%20views&color=0e75b6&style=flat" alt="rohanmehta45" /> </p>
 
-- 🌱 My Expertise are **HTML,CSS,JAVASCRIPT,BOOTSTRAP,REACT JS, EXPRESS JS, NODE JS, MONGO DB, PAYMENT GATEWAY, DEPLOYMENT**
+- 🌱 My Expertise are **DSA WITH JAVA,HTML,CSS,JAVASCRIPT,BOOTSTRAP,REACT JS, EXPRESS JS, NODE JS, MONGO DB, PAYMENT GATEWAY, DEPLOYMENT**
 
-- 💬 Ask me about **WEB DEVELOPMENT**
+- 💬 Ask me about **WEB DEVELOPMENT, DSA**
 
-- 📫 How to reach me **programify45@gmail.com**
+- 📫 How to reach me **rohanmehta0045@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
